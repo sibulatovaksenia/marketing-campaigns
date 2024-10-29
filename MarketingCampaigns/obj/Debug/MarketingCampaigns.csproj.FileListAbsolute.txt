@@ -1,0 +1,10 @@
+C:\Programming\.vs\Programming\v17\lab2\MarketingCampaigns\MarketingCampaigns\bin\Debug\MarketingCampaigns.exe.config
+C:\Programming\.vs\Programming\v17\lab2\MarketingCampaigns\MarketingCampaigns\bin\Debug\MarketingCampaigns.exe
+C:\Programming\.vs\Programming\v17\lab2\MarketingCampaigns\MarketingCampaigns\bin\Debug\MarketingCampaigns.pdb
+C:\Programming\.vs\Programming\v17\lab2\MarketingCampaigns\MarketingCampaigns\obj\Debug\MarketingCampaigns.csproj.AssemblyReference.cache
+C:\Programming\.vs\Programming\v17\lab2\MarketingCampaigns\MarketingCampaigns\obj\Debug\MarketingCampaigns.csproj.CoreCompileInputs.cache
+C:\Programming\.vs\Programming\v17\lab2\MarketingCampaigns\MarketingCampaigns\obj\Debug\MarketingCampaigns.exe
+C:\Programming\.vs\Programming\v17\lab2\MarketingCampaigns\MarketingCampaigns\obj\Debug\MarketingCampaigns.pdb
+C:\Programming\.vs\Programming\v17\lab2\MarketingCampaigns\MarketingCampaigns\bin\Debug\System.Data.SqlClient.dll
+C:\Programming\.vs\Programming\v17\lab2\MarketingCampaigns\MarketingCampaigns\bin\Debug\System.Data.SqlClient.xml
+C:\Programming\.vs\Programming\v17\lab2\MarketingCampaigns\MarketingCampaigns\obj\Debug\Marketin.3F73FD40.Up2Date
